@@ -40,7 +40,7 @@ This repository demonstrates a real-time audio transcription system using two AI
 
   ```bash
     Final_Whisper_and_Fast_whisper.ipynb
-    ```
+  ```
 
 ## Usage
 
