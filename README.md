@@ -26,7 +26,7 @@ This repository demonstrates a real-time audio transcription system using two AI
     ```
 
 ### Installation
-
+## I haven't uploaded Entire Fil, but followthe  below steps
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/Real-Time-AI-Audio-Transcription.git
@@ -36,6 +36,10 @@ This repository demonstrates a real-time audio transcription system using two AI
     ```bash
     pip install -r requirements.txt
     ```
+
+### Easily Access: Google Colab
+# Run the cell after uploading the file to Google Colab.
+run : Final_Whisper_and_Fast_whisper.ipynb
 
 ## Usage
 
